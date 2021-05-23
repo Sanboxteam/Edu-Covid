@@ -1,1 +1,2 @@
-# Edu-Covid
+# Aplikasi Edu-Covid
+# Projek Akhir Design Pemrograman Web
