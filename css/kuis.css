@@ -1,0 +1,19 @@
+.title-2 {
+    font-size: 20px;
+}
+
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css');
+.Keterangan {
+    height: 100%
+}
+
+.Biodata {
+    font-size: 1.25rem;
+    margin-bottom: 720px;
+}
+
+#soal {
+    margin-top: 3rem;
+    /* border: 5px solid #2EC49C; */
+    display: none;
+}
